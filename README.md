@@ -1,0 +1,2 @@
+# pripravaH
+příprava na \Hackithon
